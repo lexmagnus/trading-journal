@@ -21,7 +21,8 @@ Trading Journal is a full-stack application built with **Laravel 12 (API-only)**
 
 ## 🧱 ER Model / ER Diagram
 
-![image](https://github.com/user-attachments/assets/c1497923-e2ca-47aa-9afa-ae8ac15cc58d)
+![image](https://github.com/user-attachments/assets/63306c81-a880-4191-9880-6314413122c5)
+
 
 ## ⚙️ Backend Setup (Laravel)
 
